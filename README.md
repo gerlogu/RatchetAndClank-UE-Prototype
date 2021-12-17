@@ -1,2 +1,2 @@
 # Ratchet-and-Clank-Prototype
-Latest version: v1.0.1
+Latest version: v1.0.2
