@@ -4,4 +4,4 @@ A Ratchet & Clank prototype made with Unreal Engine 4 in one week.
 
 ## Development Process
 [![RathetAndClank](https://img.youtube.com/vi/ZwETNuz7orI/0.jpg)](https://www.youtube.com/watch?v=ZwETNuz7orI)
-[&nbsp;&nbsp;**⇥ WATCH HERE ⇤**](https://www.youtube.com/watch?v=ZwETNuz7orI)
+[&nbsp;&nbsp;**⇥ WATCH HERE ⇤**&nbsp;&nbsp;](https://www.youtube.com/watch?v=ZwETNuz7orI)
